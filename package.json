@@ -1,0 +1,22 @@
+{
+  "name": "hashlocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hashlocks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledgerloops/hashlocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledgerloops/hashlocks/issues"
+  },
+  "homepage": "https://github.com/ledgerloops/hashlocks#readme",
+  "dependencies": {
+    "sha.js": "^2.4.11"
+  }
+}
